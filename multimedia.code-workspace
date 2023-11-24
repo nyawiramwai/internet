@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../programming"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "multimedia"
+	}
+}
